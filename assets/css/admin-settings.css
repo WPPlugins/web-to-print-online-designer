@@ -1,0 +1,32 @@
+#nbdesigner-options-form-nbdesigner, .nbd-license {
+    margin-right: 15px;
+}
+#nbdesigner-options-form-nbdesigner .nav-tab-wrapper {
+    border-bottom: 1px solid #ddd;
+}
+#nbdesigner-options-form-nbdesigner h2 {
+    margin-bottom: 0;
+}
+#nbdesigner-options-form-nbdesigner .form-table, .nbd-license table {
+    background: #fff;
+    margin-top: 0;    
+}
+#nbdesigner-options-form-nbdesigner .form-table:not(:last-of-type) {
+    margin-bottom: 15px;    
+}
+#nbdesigner-options-form-nbdesigner .form-table th, .nbd-license table th {
+    padding-left: 20px;
+}
+#nbdesigner-options-form-nbdesigner .form-table td label {
+    font-size: 13px;
+    font-weight: normal;    
+}
+#nbdesigner-options-form-nbdesigner h3, .nbd-license h3 {
+    background: #fff;
+    margin: 0;
+    padding: 15px 10px;
+    border-bottom: 2px solid #ddd;    
+}
+.nbdesigner-multi-values .nbd-select {
+    cursor: pointer;
+}

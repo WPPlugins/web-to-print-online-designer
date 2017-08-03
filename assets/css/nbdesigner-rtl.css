@@ -1,0 +1,67 @@
+/*General*/
+.modal-header, .modal-body, textarea, input, li, p {
+    text-align: right;
+}
+.modal-header button.close {
+    float: left;
+}
+label {
+    float: right;
+    padding-left: 15px;
+    padding-top: 5px;    
+}
+.nbdesigner_art_modal_header > span {
+    float: right;
+}
+/*Layer*/
+#dg-layers ul li {
+    text-align: right;
+}
+#dg-layers ul li span.pull-right {
+    float: left !important;
+}
+#dg-layers ul li i {
+    float: right;
+    padding-top: 8px;
+    padding-left: 5px;
+}
+#container_layer h3 {
+    text-align: right;
+    padding-right: 5px;    
+}
+#container_layer h3 span {
+    float: left !important;
+}
+/*Tool top right*/
+.first_message, .translate-switch li  {
+    text-align: right;
+}
+/*Design Tool*/
+#typography textarea.form-control {
+    text-align: right;
+}
+legend {
+    padding-right: 5px;
+    text-align: right;
+}
+label-config {
+    text-align: right;
+}
+.nb-col-2, .nb-col-3, .nb-col-4, .nb-col-6, .nb-col-8, .nb-col-12, .nb-col-30, .nb-col-40, .nb-col-60, .nb-col-70 {
+    text-align: right;
+}
+.jscolor, .item-config {
+    float: right;
+}
+#image_filter3 .switch {
+    float: right;
+    width: 100%;
+}
+.container-dg-slider {
+    padding-left: 15px;
+    padding-right: 0;
+}
+.c-option {
+    margin-left: 0px !important;
+    margin-right: 7px !important;
+}

@@ -1,0 +1,44 @@
+.nbdesigner-left {
+    float: right;
+}
+.nbdesigner-right {
+    float: left;
+}
+.nbdesigner-setting-box-label {
+    float: right;
+    margin-left: 15px;
+    margin-right: 0;
+    display: inline-block;  
+}
+.nbdesigner-info-box-inner div {
+    display: inline-block;
+    float: left;
+}
+.nbdesiger-update-area-design {
+    float: left;
+    margin-right: 0;
+}
+.nbdesigner-setting-box-value {
+    float: right;
+}
+#nbdesigner-options-form-nbdesigner .form-table th, .nbd-license table th {
+    padding-left: 0;
+    padding-right: 20px;
+}
+.nbdesigner_font_info  {
+    float: right;
+    width: 60%;    
+}
+.nbdesigner_font_preview {
+    width: 30%;
+    float: left;
+}
+#nbdesigner_cancel_add_font_cat, #nbdesigner_cancel_add_art_cat {
+    margin-right: 15px;
+}
+.nbdesigner-opt-inner, #nbdesigner_dpi_con {
+    line-height: 28px;
+}
+.nbdesigner-variation-setting .nbdesigner-info-box, .nbdesigner-variation-setting .nbdesigner-image-box {
+    float: right;
+}
